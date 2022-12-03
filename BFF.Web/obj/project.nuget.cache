@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GxhEG9xsFw+nOaEsct9pNE2OuIl08JSHJxHAeB+WdMwcdkowh6WyP6NCpAnI1ZqPfCVcI7hdsDW3656BVH30/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manue\\source\\repos\\BFF\\BFF.Web\\BFF.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manue\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
